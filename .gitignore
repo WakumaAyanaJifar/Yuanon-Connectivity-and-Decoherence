@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+figs/
+*.npy
+fig4_sim.json
+refs/*.json
