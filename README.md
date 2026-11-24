@@ -2,7 +2,7 @@
 
 Code for the paper *"Yuanon Connectivity and Decoherence in the Mind–Thought Entanglement
 Theory: Spectral Scaling Laws, a Quantum-Reference-Frame Reading and Tests in Band-Gap
-Waveguides"* (H. Ning et al., submitted to *Entropy*).
+Waveguides"* .
 
 It computes the exact complex poles of the MTE dispersion relation, simulates the full
 two-field system on a lattice, runs the finite-reference delay model, and draws every
